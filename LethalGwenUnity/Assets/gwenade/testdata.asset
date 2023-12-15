@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -627633858, guid: 6f2cf5f1b5716954ba260a7660f78b57, type: 3}
+  m_Name: testdata
+  m_EditorClassIdentifier: 
+  t_name: GwenDataLoadedae123123
+  grenadeFallCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: -0.006126404
+      inSlope: 2.171663
+      outSlope: 2.171663
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.049801122
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.09839865
+      outSlope: 0.09839865
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.04789275
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  grenadeVerticleFallCruve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.0007095337
+      value: -0.0014152527
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5
+      value: 1
+      inSlope: 7.6527014
+      outSlope: -3.8654711
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.10408342
+      outWeight: 0.20092344
+    - serializedVersion: 3
+      time: 0.75
+      value: 1
+      inSlope: 2.9107573
+      outSlope: -3.0431242
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.20675325
+      outWeight: 0.1977601
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1.9395831
+      outSlope: 1.9395831
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.20510101
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  grenadeVerticalFallCruveNoBounce:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  clips:
+  - {fileID: 8300000, guid: 04b8962f3b01d934099104204ec8bb83, type: 3}
+  - {fileID: 8300000, guid: e94c587e3a54ebf48bc4c540cf15d41c, type: 3}
+  - {fileID: 8300000, guid: 3e8983856bf92be43bdb460d725c1f73, type: 3}
+  - {fileID: 8300000, guid: c925c64787218a2468c306389c907a62, type: 3}

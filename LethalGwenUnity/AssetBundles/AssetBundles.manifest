@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 163464357
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modassets
+      Dependencies: {}
+    Info_1:
+      Name: gwenbundle
+      Dependencies: {}
