@@ -1,0 +1,11 @@
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.csproj.AssemblyReference.cache
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\MyPluginInfo.cs
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.GeneratedMSBuildEditorConfig.editorconfig
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.AssemblyInfoInputs.cache
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.AssemblyInfo.cs
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.csproj.CoreCompileInputs.cache
+H:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\GwenMod\GwenMod.deps.json
+H:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\GwenMod\GwenMod.dll
+H:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\GwenMod\GwenMod.pdb
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.dll
+H:\LethalGwen\LethalCompanyTemplate\obj\Release\GwenMod.pdb

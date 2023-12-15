@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9c171c081aa2f884ab9102fa3ab78ecd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parentObject: {instanceID: 0}
+  - playerHeldBy: {instanceID: 0}
+  - itemProperties: {fileID: 11400000, guid: 1965f32026ef9644b9fdf5209cf23c11, type: 2}
+  - propBody: {instanceID: 0}
+  - mainObjectRenderer: {instanceID: 0}
+  - radarIcon: {instanceID: 0}
+  - gwenAudio: {instanceID: 0}
+  - explosionsfx: {instanceID: 0}
+  - gwenadeData: {fileID: 11400000, guid: 0eb454ef4cae27344bec903c31e567e4, type: 2}
+  - gwenadeExplosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

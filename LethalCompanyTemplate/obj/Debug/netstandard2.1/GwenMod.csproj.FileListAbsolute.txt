@@ -1,0 +1,11 @@
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.csproj.AssemblyReference.cache
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\MyPluginInfo.cs
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.GeneratedMSBuildEditorConfig.editorconfig
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.AssemblyInfoInputs.cache
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.AssemblyInfo.cs
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.csproj.CoreCompileInputs.cache
+H:\LethalGwen\LethalCompanyTemplate\bin\Debug\netstandard2.1\GwenMod.deps.json
+H:\LethalGwen\LethalCompanyTemplate\bin\Debug\netstandard2.1\GwenMod.dll
+H:\LethalGwen\LethalCompanyTemplate\bin\Debug\netstandard2.1\GwenMod.pdb
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.dll
+H:\LethalGwen\LethalCompanyTemplate\obj\Debug\netstandard2.1\GwenMod.pdb
